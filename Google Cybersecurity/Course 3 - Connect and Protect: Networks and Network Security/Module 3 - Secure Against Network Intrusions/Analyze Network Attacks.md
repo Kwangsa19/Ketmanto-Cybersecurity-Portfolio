@@ -1,4 +1,4 @@
-## Cybersecurity Incident Report 
+## Cybersecurity Incident Report: Analyze Network Layer Communication
 
 Please enroll to the Google Cybersecurity [course](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity) on Coursera to view other attachments to solve this task. I only uploaded my answer to it. 
 | Part 1: Provide a summary of the problem found in the DNS and ICMP traffic log |
