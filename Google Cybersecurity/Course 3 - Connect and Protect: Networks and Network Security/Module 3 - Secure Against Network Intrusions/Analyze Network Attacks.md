@@ -1,6 +1,6 @@
 # Cybersecurity Incident Report: Analyze Network Layer Communication
 
-Please enroll to the Google Cybersecurity [course](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity) on Coursera to view other attachments to solve this task. I only uploaded my answer to it. 
+Please enrol to the Google Cybersecurity [course](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity) on Coursera to view other attachments to solve this task. I only uploaded my answer to it. 
 
 ## Identify the type of attack that may have caused this network interruption 
 
