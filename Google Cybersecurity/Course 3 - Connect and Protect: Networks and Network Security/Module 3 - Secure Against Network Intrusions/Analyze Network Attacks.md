@@ -1,25 +1,22 @@
-## Cybersecurity Incident Report: Analyze Network Layer Communication
+# Cybersecurity Incident Report: Analyze Network Layer Communication
 
 Please enroll to the Google Cybersecurity [course](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity) on Coursera to view other attachments to solve this task. I only uploaded my answer to it. 
-| Part 1: Provide a summary of the problem found in the DNS and ICMP traffic log |
-| ----------- |
-| DNS server is down as a result of port 53 being unreachable. The ICMP request packet indicates that the packet has not been delivered to the port of DNS server successfully. 
-As we know, Port 53 is commonly used for DNS. That being said, the most likely issue is the DNS is not responding and it can be caused by DDOS attack against the DNS server.
-The UDP protocol reveals that:  DNS is not responding. 
-This is based on the results of the network analysis, which show that the ICMP echo reply returned the error message: at port 53 , UDP port 53 unreachable
-The port noted in the error message is used for: DNS Server
-The most likely issue is: DNS server is not responding. |
 
-| Part 2: Explain your analysis of the data and provide at least one cause of the incident. |
-| ----------- |
-| Time incident occurred: 1.23pm 
-Explain how the IT team became aware of the incident: The customer reported to the company that they were unable to gain access to the company’s website. It was then reported that the message on the web page is “port unreachable”. 
-Explain the actions taken by the IT department to investigate the incident:
-Security engineers had a look on the webpage and received an error “port being unreachable”. The team used TCPdump (network analyzer) to see the network traffic surrounding the website.
-Note key findings of the IT department's investigation (i.e., details related to the port affected, DNS server, etc.): 
-Go to website then load the webpage while monitoring the networks via TCPdump. It received lots of traffic. Sent UDP packets and received ICMP response to return to the host that indicates port 53 unreachable. 
-Note a likely cause of the incident:
-Determine whether port 53 is working or not. IF it’s fine, then check firewall. 
--Firewall: The ability to block network traffic on specific ports. Port blocking can be used to stop or prevent an attack.
--DOS: There could be flood of information being sent to the network device to make it crash or unable to function. The hacker could disable dns server using DOS attack. Or someone within the organization might have disabled port 53 on firewalls. |
+## Identify the type of attack that may have caused this network interruption 
+
+One potential explanation for the website's connection timeout error message is: DOS attack. <br>
+The logs show that: Web server stops responding after receiving so many SYN packet requests. <br>
+This event could be: Syn flood attack.
+
+## Part 2: Explain how the attack is causing the website malfunction 
+When website visitors try to establish a connection with the web server, a three-way handshake occurs using the TCP protocol. Explain the three steps of the handshake: 
+
+| Step | Description |
+|---|---|
+| 1 | `SYN` : Client sends SYN packet to the server, requesting a connection. |
+| 2 | `SYN/ACK` : Server responds with SYN/ACK packet, acknowledging the client's SYN and requesting confirmation of the connection. |
+| 3 | `ACK` : Client sends ACK packet to the server, acknowledging the server's SYN/ACK. |
+
+Explain what happens when a malicious actor sends a large number of SYN packets all at once: It slows down the traffic to the point where such request will fail to be executed. It overwhelms the server’s available resources to reserve for the connection. When this happens, there are no server resources left for legitimate TCP connection requests. <br>
+Explain what the logs indicate and how that affects the server: The server has become overloaded and unable to receive any more visitors. In addition, those new visitors will receive a connection timeout message. 
 
