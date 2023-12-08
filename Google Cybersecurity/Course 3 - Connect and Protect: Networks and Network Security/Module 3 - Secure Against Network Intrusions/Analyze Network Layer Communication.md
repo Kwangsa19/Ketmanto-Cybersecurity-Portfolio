@@ -1,6 +1,6 @@
 # Cybersecurity Incident Report: Analyze Network Layer Communication
 
-Please enroll to the Google Cybersecurity [course](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity) on Coursera to view other attachments to solve this task. I only uploaded my answer to it. 
+Please enrol to the Google Cybersecurity [course](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity) on Coursera to view other attachments to solve this task. I only uploaded my answer to it. 
 ## Provide a summary of the problem found in the DNS and ICMP traffic log 
 
 DNS server is down as a result of port 53 being unreachable. The ICMP request packet indicates that the packet has not been delivered to the port of DNS server successfully. <br>
