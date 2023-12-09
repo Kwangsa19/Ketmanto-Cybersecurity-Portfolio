@@ -1,6 +1,6 @@
 # Projects
 
-These are what I am planning to create: 
+These are what I am planning to create upon my completion of this certification: 
 1. Drafting a professional statement
 2. Conducting a security audit
 3. Analyzing network structure and security
