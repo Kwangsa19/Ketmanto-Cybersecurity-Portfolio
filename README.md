@@ -6,6 +6,7 @@ The following that I will earn are, but not limited to:
 1. Google Cybersecurity Professional Certificate
 2. Microsoft Cybersecurity Analyst
 3. Google Project Management: Professional Certificate
+4. And many more!!!!
 
 In the future, I will share the tools and software that I used during certifications. 
 
