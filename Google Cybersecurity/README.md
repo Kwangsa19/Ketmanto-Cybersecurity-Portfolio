@@ -10,7 +10,6 @@ These are what I am planning to create upon my completion of this certification:
 7. Importing and parsing a text file in a security-related scenario
 tement
 
-
 This course covers conceptual topics: 
 1. Risk management
 2. Threat and vulnerabilities analysis
