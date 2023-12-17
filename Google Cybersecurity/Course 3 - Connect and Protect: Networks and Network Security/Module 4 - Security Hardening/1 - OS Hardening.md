@@ -44,6 +44,7 @@ Your job is to document the incident in detail, including identifying the networ
 ...<a lot of traffic on the port 80>... 
 
 | Description |
+|---|
 | 14:20:32.192571 IP your.machine.52444 > dns.google.domain: 21899+ A?
 greatrecipesforme.com. (24) |
 | 14:20:32.204388 IP dns.google.domain > your.machine.52444: 21899 1/0/0 A
