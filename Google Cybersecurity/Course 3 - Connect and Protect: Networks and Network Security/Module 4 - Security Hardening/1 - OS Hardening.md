@@ -34,14 +34,9 @@ Your job is to document the incident in detail, including identifying the networ
 
 | Description |
 |---|
-| 14:18:32.192571 IP your.machine.52444 > dns.google.domain: 35084+ A?
-yummyrecipesforme.com. (24) <br>
-14:18:32.204388 IP dns.google.domain > your.machine.52444: 35084 1/0/0 A
-203.0.113.22 (40) <br>
-
-14:18:36.786501 IP your.machine.36086 > yummyrecipesforme.com.http: Flags
-[S], seq 2873951608, win 65495, options [mss 65495,sackOK,TS val 3302576859
-ecr 0,nop,wscale 7], length 0 <br>
+| 14:18:32.192571 IP your.machine.52444 > dns.google.domain: 35084+ A? yummyrecipesforme.com. (24)  |
+| 14:18:32.204388 IP dns.google.domain > your.machine.52444: 35084 1/0/0 A203.0.113.22 (40)  |
+| 14:18:36.786501 IP your.machine.36086 > yummyrecipesforme.com.http: Flags [S], seq 2873951608, win 65495, options [mss 65495,sackOK,TS val 3302576859 ecr 0,nop,wscale 7], length 0 |
 14:18:36.786517 IP yummyrecipesforme.com.http > your.machine.36086: Flags
 [S.], seq 3984334959, ack 2873951609, win 65483, options [mss 65495,sackOK,TS
 val 3302576859 ecr 3302576859,nop,wscale 7], length 0 <br>
