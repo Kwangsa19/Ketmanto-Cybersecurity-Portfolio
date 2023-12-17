@@ -1,6 +1,6 @@
 # Ketmanto-Portfolios
 
-I'm currently completing several professional certificates to enhance my skills and knowledge in various fields. This portfolio will showcase my progress and achievements, outlining the tools, software, and resources I'm using along the way. 
+I'm currently completing several professional certificates on [Coursera](https://www.coursera.org/) to enhance my skills and knowledge in various fields. This portfolio will showcase my progress and achievements, outlining the tools, software, and resources I'm using along the way. 
 
 The following that I will earn are, but not limited to:
 1. Google Cybersecurity Professional Certificate
