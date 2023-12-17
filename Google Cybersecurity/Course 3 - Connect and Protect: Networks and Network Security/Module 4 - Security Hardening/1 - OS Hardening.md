@@ -33,6 +33,7 @@ Your job is to document the incident in detail, including identifying the networ
 ## Traffic Log:
 
 | Description |
+|---|
 | 14:18:32.192571 IP your.machine.52444 > dns.google.domain: 35084+ A?
 yummyrecipesforme.com. (24) <br>
 14:18:32.204388 IP dns.google.domain > your.machine.52444: 35084 1/0/0 A
@@ -75,7 +76,7 @@ length 0 <br>
 14:25:29.576597 IP greatrecipesforme.com.http > your.machine.56378: Flags
 [.], ack 74, win 512, options [nop,nop,TS val 3302989649 ecr 3302989649],
 length 0 <br>
-...<a lot of traffic on the port 80>...<br>
+...<a lot of traffic on the port 80>...<br> |
 
 
 ## Respond: 
