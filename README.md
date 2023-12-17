@@ -1,4 +1,4 @@
-# Ketmanto_Google-Cybersecurity-Portfolios
+# Ketmanto_Google-Cybersecurity-Portfolio
 
 I'm currently completing Google Cybersecurity professional certificates on Coursera ([Click here](https://www.coursera.org/professional-certificates/google-cybersecurity)). This portfolio will showcase my progress and achievements, outlining the tools, software, and resources I'm using along the way. 
 
