@@ -96,7 +96,7 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 | No | EU customers are kept secured | The organization does not apply GDPR practice. Thus, it puts them at risk of being fined by the EU government. |
 | Yes | Privacy policies are maintained properly| According to the scenario, it has been enforced by the IT Team members and other staff. |
 
-*System and Organizations Controls 
+* System and Organizations Controls 
 
 | Yes/ No / ? | Best Practice | Explanation |
 | :---        |    :---:   | :---     |
