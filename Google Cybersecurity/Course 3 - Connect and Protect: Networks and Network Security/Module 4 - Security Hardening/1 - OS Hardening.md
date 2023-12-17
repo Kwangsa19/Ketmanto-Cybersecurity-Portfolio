@@ -45,10 +45,8 @@ Your job is to document the incident in detail, including identifying the networ
 
 | Description |
 |---|
-| 14:20:32.192571 IP your.machine.52444 > dns.google.domain: 21899+ A?
-greatrecipesforme.com. (24) |
-| 14:20:32.204388 IP dns.google.domain > your.machine.52444: 21899 1/0/0 A
-192.0.2.17 (40) |
+| 14:20:32.192571 IP your.machine.52444 > dns.google.domain: 21899+ A?greatrecipesforme.com. (24) |
+| 14:20:32.204388 IP dns.google.domain > your.machine.52444: 21899 1/0/0 A192.0.2.17 (40) |
 | 14:25:29.576493 IP your.machine.56378 > greatrecipesforme.com.http: Flags[S], seq 1020702883, win 65495, options [mss 65495,sackOK,TS val 3302989649ecr 0,nop,wscale 7], length 0 |
 | 14:25:29.576510 IP greatrecipesforme.com.http > your.machine.56378: Flags[S.], seq 1993648018, ack 1020702884, win 65483, options [mss 65495,sackOK,TSval 3302989649 ecr 3302989649,nop,wscale 7], length 0 |
 | 14:25:29.576524 IP your.machine.56378 > greatrecipesforme.com.http: Flags[.], ack 1, win 512, options [nop,nop,TS val 3302989649 ecr 3302989649], length 0 |
