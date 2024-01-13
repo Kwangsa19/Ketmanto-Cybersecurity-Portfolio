@@ -12,5 +12,5 @@ Jorge's drive contains a mix of personal and work-related files. For example, it
 |Points| Description|
 |---|---|
 |Contents | Not all documents contain personal information. However, Jodge would not want them to be made public anyway. Some of the work files include personal information and its hospital's operations.|
-|Attacker mindset | The information that the attackers would obtain could benefit them to trick Jodge. Now, they can send malicious email to manipulate Jodge to obtain more personal information (Payment cards and more)|
+|Attacker mindset | The information that the attackers would obtain could benefit them to trick Jodge. Now, they can send malicious email to manipulate Jodge to obtain more personal information (Payment cards and more).|
 |Risk analysis | Educating all employees about these types of attacks can raise awareness and prevent the incident from happening again. This is a managerial control. Second, setting up a protection system, such as installing antivirus and scanning the device on a regular basis is an operational control. Third, to prevent malicious code from being executed when a USB drive is plugged in, we can disable “the autoplay” feature or make sure the file has to be sent through an email address that has antivirus in it.|
