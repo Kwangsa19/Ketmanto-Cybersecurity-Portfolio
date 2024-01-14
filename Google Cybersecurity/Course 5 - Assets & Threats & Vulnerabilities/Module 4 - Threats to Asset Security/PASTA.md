@@ -53,7 +53,7 @@ In this case, I did not include level 1 and 2 as it might be way more complex.
 * Denial of service, integration issues, service disruptions
  
 ### Vulnerability Analysis
-* Lack of prepared statements
+* Lack of prepared statements (parameterized query, is a powerful tool in SQL that helps prevent SQL injection attacks and improve database performance.)
 * Weak credential logins
 * Overloaded app server
 * Broken API Token
