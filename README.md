@@ -6,6 +6,13 @@ I am Ketmanto Wangsa. I am a Warehouse Assistant with four years of experience i
 The Google IT Support and Cybersecurity Professional Certificate have prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. As of now, I am preparing to take the CompTIA A+ and CompTIA Security+ certifications.
 
 ## Portfolio
+
+### Skills  
+
+### Tools 
+
+### Other references 
+
 I'm currently completing Google Cybersecurity professional certificates on Coursera ([Click here](https://www.coursera.org/professional-certificates/google-cybersecurity)). This portfolio will showcase my progress and achievements, outlining the tools, software, and resources I'm using along the way. 
 
 **Stay tuned for updates!**
