@@ -8,7 +8,9 @@ Your task is to create an algorithm that uses Python code to check whether the a
 * `192.168.158.170`
 * `192.168.201.40`
 * `192.168.58.57`
-  
+
+> My Python code is in Jupyter Notebook. 
+
 ## Import and Read the File Contents
 
 ```
@@ -142,7 +144,7 @@ As a final step in this task, I had to update the `allow list` with the revised 
 
 The argument `w` with the `open()` and `with` statement, indicates the file that I want to open and write over its content. Once the code above is executed, the document will be updated in `allow_list.txt`. 
 
-> The file `allow_list.txt` that I attached in this directory is the initial file. You might wanna run the code and observe its content to be revised. 
+> The file `allow_list.txt` that I attached in this directory is the initial file. You might wanna run the code and observe its content to be revised. Otherwise, please head to `allow_list_revised.txt` to observe the differences. 
 
 The result in the new `allow_list.txt` (13 IP addresses): 
 ![VSCodium_2IJHBymnA6](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/652efbd6-6698-4e44-92cb-06e8e37b4e2d)
