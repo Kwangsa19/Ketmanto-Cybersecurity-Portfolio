@@ -9,7 +9,7 @@ Your task is to create an algorithm that uses Python code to check whether the a
 * `192.168.201.40`
 * `192.168.58.57`
 
-> My Python code is in Jupyter Notebook. 
+> My Python code is in Jupyter Notebook. Please navigate to `Python - Ketmanto - Automation.ipynb`. 
 
 ## Import and Read the File Contents
 
