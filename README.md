@@ -8,6 +8,8 @@ The Google IT Support and Cybersecurity Professional Certificate have prepared m
 ## Portfolio
 > Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
 
+> Some of my documents are in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
+
 I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
 * Programming for cybersecurity tasks
 * Frameworks and controls that inform security operations
@@ -15,7 +17,7 @@ I have developed a cybersecurity portfolio showcasing various tasks and projects
 * Detecting and responding to incidents using an intrusion detection system
 * Performing packet capture and analysis
 
-Additionally, it has paved the way for me to pursue one of the following roles:
+Additionally, it has paved the way for me to pursue one of the entry-level following roles:
 * Cybersecurity Analyst
 * Security Analyst
 * SOC Analyst
@@ -50,13 +52,13 @@ Several tools that I used:
 
 ### Other references 
 Please have a look on other standalone portfolio that I published: 
-* Python - Cybersecurity - [Decrypt Zipfile]()
-* Python - Cybersecurity - [Automation Case]()
-* Python - Cybersecurity - [Transaction Fraud]() 
-* Cybersecurity - Investigation & Risk Assessment Based on [MITRE ATT&CK Framework and Open-Source Intelligence (OSINT)]()
-* Cybersecurity - [Cybersecurity-Incident-Response]() 
+* Python - Cybersecurity - [Bruteforce Zipfile](https://github.com/Kwangsa19/Python-Cybersecurity-Bruteforce-zipfile)
+* Python - Cybersecurity - [Automation Case](https://github.com/Kwangsa19/Python-Cybersecurity-Automation-Case)
+* Python - Cybersecurity - [Transaction Fraud](https://github.com/Kwangsa19/Python-Cybersecurity-Transaction-Fraud) 
+* Cybersecurity - Investigation & Risk Assessment Based on [MITRE ATT&CK Framework and Open-Source Intelligence (OSINT)](https://github.com/Kwangsa19/Cybersecurity-Investigation-Risk-Report)
 
 **Stay tuned for updates!**
 
 This portfolio will continuously grow as I complete more certificates and projects. I encourage you to visit again to see my progress and learn more about my skills and experience.
+Thank you for your time. For more information, please connect with me on [Linkedin](linkedin.com/in/ketmanto-wangsa/).
 
