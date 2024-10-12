@@ -1,6 +1,7 @@
 # Ketmanto-Cybersecurity-Portfolio
 > Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned! 
-
+> Please make sure you include the original MIT license.
+ 
 ## Professional Statements
 I am Ketmanto Wangsa. I am an Application Support Engineer at a Sydney-based CX consultancy. I provide IT technical support (Azure, Intune, Exchange, Entra ID), database extraction (SQL), and cyber security support. During a remote internship at a leading US supplier, I had the opportunity to serve as both Technical Support and Team Leader of the Sourcing Team. In addition, I completed the IBM Engagement Specialist program to enhance my interpersonal skills. Furthermore, I completed six cybersecurity virtual programs with ANZ, Datacom, Mastercard, AIG, Tata Consultancy, and Telstra. 
 
