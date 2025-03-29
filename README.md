@@ -8,7 +8,7 @@ I am Ketmanto Wangsa. I am an Application Support Engineer at a Sydney-based CX 
 
 Recently, I completed the Google IT Support and Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. The Google IT Support and Cybersecurity Professional Certificate have prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. 
 
-As of 2024, I am preparing to take the `Linux Foundation Certified Associate (LFCA)`, `CompTIA A+`, `CompTIA Network+` and `CompTIA Security+` certifications.
+As of 2025, I passed SC-900 certification. I am preparing to take `AZ-900`, `AZ-305`, `CompTIA A+`, `CompTIA Network+`, `CompTIA Security+`, and `Linux Foundation Certified Associate (LFCA)` certifications.
 
 ## Portfolio
 > Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
