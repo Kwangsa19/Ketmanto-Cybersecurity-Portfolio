@@ -4,11 +4,11 @@
 > Please make sure you include the original MIT license.
  
 ## Professional Statements
-I am Ketmanto Wangsa. I am an Application Support Engineer at a Sydney-based CX consultancy. I provide IT technical support (Azure, Intune, Exchange, Entra ID), database extraction (SQL), and cyber security support. During a remote internship at a leading US supplier, I had the opportunity to serve as both Technical Support and Team Leader of the Sourcing Team. In addition, I completed the IBM Engagement Specialist program to enhance my interpersonal skills. Furthermore, I completed nine cybersecurity virtual programs with ANZ, Datacom, Mastercard, AIG, Tata Consultancy, Telstra, and more. 
+I am Ketmanto Wangsa. I am an Application Support Engineer at a Sydney-based CX consultancy. I provide IT technical support (Azure, Intune, Exchange, Entra ID), database extraction (SQL), application and cyber security support. During a remote internship at a leading US supplier, I had the opportunity to serve as both Technical Support and Team Leader of the Sourcing Team. In addition, I completed the IBM Engagement Specialist program to enhance my interpersonal skills. Furthermore, I completed nine cybersecurity virtual programs with ANZ, Datacom, Mastercard, AIG, Tata Consultancy, Telstra, and more. 
 
 Recently, I completed the Google IT Support and Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. The Google IT Support and Cybersecurity Professional Certificate have prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. 
 
-As of 2025, I passed SC-900 certification. I am preparing to take `AZ-900`, `AZ-305`, `CompTIA A+`, `CompTIA Network+`, `CompTIA Security+`, and `Linux Foundation Certified Associate (LFCA)` certifications.
+As of 2025, I passed `SC-900` certification. I am preparing to take `AZ-900`, `AZ-305`, `CompTIA A+`, `CompTIA Network+`, `CompTIA Security+`, and `Linux Foundation Certified Associate (LFCA)` certifications.
 
 ## Portfolio
 > Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
