@@ -30,10 +30,10 @@ Hello! Thank you for coming here. I'd love to chat with people☕.
 * Published 4+ research papers spanning topics in Artificial Intelligence (AI), Blockchain, and Project Management, with three of them being SCOPUS-indexed at the international level.
 
 𝑲𝒆𝒚 𝑺𝒌𝒊𝒍𝒍𝒔:
-Microsoft Entra ID, Microsoft Intune & Exchange, Troubleshooting Hardware & Software, Windows, MacOS, Slack, JIRA, Office 365, Zapier, Networking, Domain Management, SFTP, Python.
+* Microsoft Entra ID, Microsoft Intune & Exchange, Troubleshooting Hardware & Software, Windows, MacOS, Slack, JIRA, Office 365, Zapier, Networking, Domain Management, SFTP, Python.
 
 𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒔:
-Research, Cybersecurity, Artificial Intelligence, IT Infrastructure, Python, Azure, Google Cloud, AWS, Linux, Data Analytic, Blockchain, Open Source, Travelling, Soccer, Fencing.
+* Research, Cybersecurity, Artificial Intelligence, IT Infrastructure, Python, Azure, Google Cloud, AWS, Linux, Data Analytic, Blockchain, Open Source, Travelling, Soccer, Fencing.
 
 Thank you for your time. 
 I'd welcome the chance to connect! Feel free to reach out.
