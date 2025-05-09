@@ -7,27 +7,27 @@
 Hello! Thank you for coming here. I'd love to chat with people☕.
 
 𝑺𝒖𝒎𝒎𝒂𝒓𝒚: 
-• Bachelor of IT (Distinction) providing technical and cybersecurity support as an Application Support Engineer.
-• Google IT Support and Cybersecurity certificates graduate.
-• Microsoft Certified: Security, Compliance, and Identity (SC-900).
-• Experience in application support, logistics and retail, technical support, and customer service.
-• IT procurement expertise (saves 25%), NIST compliance (saves ~AU$100,000), risk management (prevents 16-hour downtimes).
-• Passionate about Customer Service, IT Infrastructure, Networking, Artificial Intelligence, and Cybersecurity.
+* Bachelor of IT (Distinction) providing technical and cybersecurity support as an Application Support Engineer.
+* Google IT Support and Cybersecurity certificates graduate.
+* Microsoft Certified: Security, Compliance, and Identity (SC-900).
+* Experience in application support, logistics and retail, technical support, and customer service.
+* IT procurement expertise (saves 25%), NIST compliance (saves ~AU$100,000), risk management (prevents 16-hour downtimes).
+* Passionate about Customer Service, IT Infrastructure, Networking, Artificial Intelligence, and Cybersecurity.
 
 𝑲𝒆𝒚 𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔:
-• IT Procurement: Saved 25% of the total cost of IT procurement. 
-• NIST: Develop and maintain strategic preventive plans to counter ransomware attacks, saving over $100,000. 
-• Risk Management: Developed a plan to prevent 16-hour downtime due to DNS migration.
-• Data Analysis: Developed data visualisations (Excel) to enhance sourcing reports, reducing processing time by ~10%. 
-• Training: Conducted remote training for 6+ interns and created tutorial videos. Streamlined processes by 2 days. 
-• Technical Support: Provided first-level support for platform inquiries, resolving 73.3% of issues.
-• Leadership: Led a team of 10+ interns in sourcing 15+ suppliers/week with a 95% attendance and participation rate.
+* IT Procurement: Saved 25% of the total cost of IT procurement.
+* NIST: Develop and maintain strategic preventive plans to counter ransomware attacks, saving over $100,000.
+* Risk Management: Developed a plan to prevent 16-hour downtime due to DNS migration.
+* Data Analysis: Developed data visualisations (Excel) to enhance sourcing reports, reducing processing time by ~10%.
+* Training: Conducted remote training for 6+ interns and created tutorial videos. Streamlined processes by 2 days.
+* Technical Support: Provided first-level support for platform inquiries, resolving 73.3% of issues.
+* Leadership: Led a team of 10+ interns in sourcing 15+ suppliers/week with a 95% attendance and participation rate.
 
 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐:
-• Developed a rigorous cybersecurity project portfolio on mock clients covering NIST, audits, Linux, SQL, assets, threats, vulnerabilities, detection, incident response, escalation, Wireshark, tcpdump, IDS, SIEM, and Python automation.
+* Developed a rigorous cybersecurity project portfolio on mock clients covering NIST, audits, Linux, SQL, assets, threats, vulnerabilities, detection, incident response, escalation, Wireshark, tcpdump, IDS, SIEM, and Python automation.
 
 𝑹𝒆𝒔𝒆𝒂𝒓𝒄𝒉 𝑷𝒂𝒑𝒆𝒓𝒔:
-• Published 4+ research papers spanning topics in Artificial Intelligence (AI), Blockchain, and Project Management, with three of them being SCOPUS-indexed at the international level.
+* Published 4+ research papers spanning topics in Artificial Intelligence (AI), Blockchain, and Project Management, with three of them being SCOPUS-indexed at the international level.
 
 𝑲𝒆𝒚 𝑺𝒌𝒊𝒍𝒍𝒔:
 Microsoft Entra ID, Microsoft Intune & Exchange, Troubleshooting Hardware & Software, Windows, MacOS, Slack, JIRA, Office 365, Zapier, Networking, Domain Management, SFTP, Python.
