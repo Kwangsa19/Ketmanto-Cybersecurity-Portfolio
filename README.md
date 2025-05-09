@@ -4,11 +4,41 @@
 > Please make sure you include the original MIT license.
  
 ## Professional Statements
-I am Ketmanto Wangsa. I am an Application Support Engineer at a Sydney-based CX consultancy. I provide IT technical support (Azure, Intune, Exchange, Entra ID), database extraction (SQL), application and cyber security support. During a remote internship at a leading US supplier, I had the opportunity to serve as both Technical Support and Team Leader of the Sourcing Team. In addition, I completed the IBM Engagement Specialist program to enhance my interpersonal skills. Furthermore, I completed nine cybersecurity virtual programs with ANZ, Datacom, Mastercard, AIG, Tata Consultancy, Telstra, and more. 
+Hello! Thank you for coming here. I'd love to chat with people☕.
 
-Recently, I completed the Google IT Support and Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. The Google IT Support and Cybersecurity Professional Certificate have prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. 
+𝑺𝒖𝒎𝒎𝒂𝒓𝒚: 
+• Bachelor of IT (Distinction) providing technical and cybersecurity support as an Application Support Engineer.
+• Google IT Support and Cybersecurity certificates graduate.
+• Microsoft Certified: Security, Compliance, and Identity (SC-900).
+• Experience in application support, logistics and retail, technical support, and customer service.
+• IT procurement expertise (saves 25%), NIST compliance (saves ~AU$100,000), risk management (prevents 16-hour downtimes).
+• Passionate about Customer Service, IT Infrastructure, Networking, Artificial Intelligence, and Cybersecurity.
 
-As of 2025, I passed `SC-900` certification. I am preparing to take `AZ-900`, `AZ-305`, `CompTIA A+`, `CompTIA Network+`, `CompTIA Security+`, and `Linux Foundation Certified Associate (LFCA)` certifications.
+𝑲𝒆𝒚 𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔:
+• IT Procurement: Saved 25% of the total cost of IT procurement. 
+• NIST: Develop and maintain strategic preventive plans to counter ransomware attacks, saving over $100,000. 
+• Risk Management: Developed a plan to prevent 16-hour downtime due to DNS migration.
+• Data Analysis: Developed data visualisations (Excel) to enhance sourcing reports, reducing processing time by ~10%. 
+• Training: Conducted remote training for 6+ interns and created tutorial videos. Streamlined processes by 2 days. 
+• Technical Support: Provided first-level support for platform inquiries, resolving 73.3% of issues.
+• Leadership: Led a team of 10+ interns in sourcing 15+ suppliers/week with a 95% attendance and participation rate.
+
+𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐:
+• Developed a rigorous cybersecurity project portfolio on mock clients covering NIST, audits, Linux, SQL, assets, threats, vulnerabilities, detection, incident response, escalation, Wireshark, tcpdump, IDS, SIEM, and Python automation.
+
+𝑹𝒆𝒔𝒆𝒂𝒓𝒄𝒉 𝑷𝒂𝒑𝒆𝒓𝒔:
+• Published 4+ research papers spanning topics in Artificial Intelligence (AI), Blockchain, and Project Management, with three of them being SCOPUS-indexed at the international level.
+
+𝑲𝒆𝒚 𝑺𝒌𝒊𝒍𝒍𝒔:
+Microsoft Entra ID, Microsoft Intune & Exchange, Troubleshooting Hardware & Software, Windows, MacOS, Slack, JIRA, Office 365, Zapier, Networking, Domain Management, SFTP, Python.
+
+𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒔:
+Research, Cybersecurity, Artificial Intelligence, IT Infrastructure, Python, Azure, Google Cloud, AWS, Linux, Data Analytic, Blockchain, Open Source, Travelling, Soccer, Fencing.
+
+Thank you for your time. 
+I'd welcome the chance to connect! Feel free to reach out.
+
+As of 2025, I passed `SC-900` certification. I am preparing to take `AZ-900`, `AZ-305`, `Google Cloud Cybersecurity Certificate`, `CompTIA A+`, `CompTIA Network+`, `CompTIA Security+`, and `Linux Foundation Certified Associate (LFCA)` certifications.
 
 ## Portfolio
 > Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
