@@ -16,7 +16,7 @@ Hello! Thank you for coming here. I'd love to chat with people☕.
 
 𝑲𝒆𝒚 𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔:
 * IT Procurement: Saved 25% of the total cost of IT procurement.
-* NIST: Develop and maintain strategic preventive plans to counter ransomware attacks, saving over $100,000.
+* NIST: Develop and maintain strategic preventive plans to counter ransomware attacks.
 * Risk Management: Developed a plan to prevent 16-hour downtime due to DNS migration.
 * Data Analysis: Developed data visualisations (Excel) to enhance sourcing reports, reducing processing time by ~10%.
 * Training: Conducted remote training for 6+ interns and created tutorial videos. Streamlined processes by 2 days.
@@ -37,8 +37,6 @@ Hello! Thank you for coming here. I'd love to chat with people☕.
 
 Thank you for your time. 
 I'd welcome the chance to connect! Feel free to reach out.
-
-As of 2025, I passed `SC-900` certification. I am preparing to take `AZ-900`, `AZ-305`, `Google Cloud Cybersecurity Certificate`, `CompTIA A+`, `CompTIA Network+`, `CompTIA Security+`, and `Linux Foundation Certified Associate (LFCA)` certifications.
 
 ## Portfolio
 > Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
